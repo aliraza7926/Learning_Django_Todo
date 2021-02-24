@@ -8,6 +8,7 @@ djangorestframework = "~=3.11.0"
 django = "~=3.1.0"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.9"
